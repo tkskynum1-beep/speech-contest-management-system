@@ -1,0 +1,1 @@
+This file is only for demonstrating Git branch, working tree, stash, and tag.
