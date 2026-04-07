@@ -1,0 +1,31 @@
+﻿{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "Build Speech Contest",
+            "command": "cl.exe",
+            "args": [
+                "/Zi",
+                "/EHsc",
+                "/nologo",
+                "/I${workspaceFolder}\\include",
+                "/Fo${workspaceFolder}\\build\\",
+                "/Fd${workspaceFolder}\\build\\",
+                "/Fe${workspaceFolder}\\bin\\main.exe",
+                "${workspaceFolder}\\src\\*.cpp"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$msCompile"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Build source files from src and output artifacts to build/bin."
+        }
+    ]
+}
