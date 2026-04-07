@@ -1,0 +1,206 @@
+﻿Diagnose log at 2026-04-07T13:42:14Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.7.3+5fa7116896c82164996a609accd1c5ad90fe730a
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+SESSIONNAME=Console
+ProgramFiles(x86)=C:\Program Files (x86)
+MSYSTEM=MINGW64
+ProgramW6432=C:\Program Files
+windir=C:\WINDOWS
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
+TMP=C:\Users\tksky\AppData\Local\Temp
+CODEX_INTERNAL_ORIGINATOR_OVERRIDE=codex_vscode
+MoziServer=D:\software\Mozi\MoziServer\bin
+ProgramData=C:\ProgramData
+RUST_LOG=warn
+VSCODE_CWD=C:\Users\tksky\AppData\Local\Programs\Microsoft VS Code
+EnableLog=INFO
+PROCESSOR_REVISION=ba02
+TEMP=C:\Users\tksky\AppData\Local\Temp
+USERPROFILE=C:\Users\tksky
+GIT_TRACE2_PARENT_SID=e7ebb7c0-5596-41ec-9588-9aa9d2ecb291
+ACSetupSvcPort=23210
+TERM=xterm-256color
+USERNAME=tksky
+SystemRoot=C:\WINDOWS
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_3436_DTENNZTGVUJTHJSX
+CODEX_THREAD_ID=019d680a-abd3-7c21-a5ff-2307cb45bfe0
+EFC_13824_1592913036=1
+PLINK_PROTOCOL=ssh
+JETBRAINSCLIENT_VM_OPTIONS=C:\Crack\jetbra\vmoptions\jetbrainsclient.vmoptions
+DEVECOSTUDIO_VM_OPTIONS=C:\Crack\jetbra\vmoptions\devecostudio.vmoptions
+PATH=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\tksky\bin;C:\Users\tksky\.codex\tmp\arg0\codex-arg0hVgUDK;C:\Users\tksky\AppData\Local\Programs\Microsoft VS Code;D:\software\VMware\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\software\Matlab\runtime\win64;D:\software\Matlab\bin;D:\software\texlive\2023\bin\windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\tksky\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\tksky\AppData\Local\Microsoft\WindowsApps;D:\software\PyCharm 2023.1\bin;;C:\Users\tksky\AppData\Local\Programs\Ollama;D:\software\anaconda3;D:\software\anaconda3\Library\bin;D:\software\anaconda3\Scripts;D:\software\Microsoft VS Code\bin;C:\Users\tksky\.dotnet\tools;C:\Users\tksky\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\tksky\AppData\Roaming\npm;c:\Users\tksky\.vscode\extensions\openai.chatgpt-26.325.31654-win32-x64\bin\windows-x86_64
+OneDrive=C:\Users\tksky\OneDrive
+PROCESSOR_ARCHITECTURE=AMD64
+JETBRAINS_CLIENT_VM_OPTIONS=C:\Crack\jetbra\vmoptions\jetbrains_client.vmoptions
+CommonProgramFiles=C:\Program Files\Common Files
+DATASPELL_VM_OPTIONS=C:\Crack\jetbra\vmoptions\dataspell.vmoptions
+PROCESSOR_LEVEL=6
+PYCHARM_VM_OPTIONS=C:\Crack\jetbra\vmoptions\pycharm.vmoptions
+GOLAND_VM_OPTIONS=C:\Crack\jetbra\vmoptions\goland.vmoptions
+LC_CTYPE=C.UTF-8
+RlsSvcPort=22112
+HOMEPATH=\Users\tksky
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQBUCGQuoSkaBhs5XTji2EQQAAAACAAAAAAAQZgAAAAEAACAAAADbEIo2qP1aZMU63Wcrruxhl0eQJe6bUyU4QD0xEvvT7AAAAAAOgAAAAAIAACAAAAC9cgIRkeedQiDgHXKfHJAAQX+PkE0W+cMOod/2OlE5s2AAAADNoztCiKgbyoUxkk3xigM7QRj6jP/9og1HUcIfcD0XMhFeI32nBe+FBqGOAERHL6ppaty55yW99hAHsfZRBxAzMRWvNodUSaIEa9Ktccvs6o6dvIFGetFN+ip5dJcTaH1AAAAA+S87RK9SMy2J2R58OIzQz9ilzhvt6weLl345QbkCWhQRPLHY0s0Xg3T3+QUKipvnWH0VVSixQHfFCVM2PlPSpA==
+COMPUTERNAME=DESKTOP-1L3DK29
+VSCODE_IPC_HOOK=\\.\pipe\df4d2390-1.114.0-main-sock
+RUBYMINE_VM_OPTIONS=C:\Crack\jetbra\vmoptions\rubymine.vmoptions
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+VSCODE_HANDLES_UNCAUGHT_ERRORS=true
+ALLUSERSPROFILE=C:\ProgramData
+CommonProgramW6432=C:\Program Files\Common Files
+PHPSTORM_VM_OPTIONS=C:\Crack\jetbra\vmoptions\phpstorm.vmoptions
+VSCODE_ESM_ENTRYPOINT=vs/workbench/api/node/extensionHostProcess
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+DATAGRIP_VM_OPTIONS=C:\Crack\jetbra\vmoptions\datagrip.vmoptions
+STUDIO_VM_OPTIONS=C:\Crack\jetbra\vmoptions\studio.vmoptions
+RIDER_VM_OPTIONS=C:\Crack\jetbra\vmoptions\rider.vmoptions
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+VSCODE_PID=3436
+VSCODE_CRASH_REPORTER_PROCESS_TYPE=extensionHost
+IDEA_VM_OPTIONS=C:\Crack\jetbra\vmoptions\idea.vmoptions
+SystemDrive=C:
+NUMBER_OF_PROCESSORS=20
+OS=Windows_NT
+ZES_ENABLE_SYSMAN=1
+CLION_VM_OPTIONS=C:\Crack\jetbra\vmoptions\clion.vmoptions
+ComSpec=C:\WINDOWS\system32\cmd.exe
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-1L3DK29
+PSModulePath=C:\Users\tksky\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+HOME=C:\Users\tksky
+GATEWAY_VM_OPTIONS=C:\Crack\jetbra\vmoptions\gateway.vmoptions
+LOGONSERVER=\\DESKTOP-1L3DK29
+CODEX_SANDBOX_NETWORK_DISABLED=1
+ELECTRON_RUN_AS_NODE=1
+ProgramFiles=C:\Program Files
+TMPDIR=C:\Users\tksky\AppData\Local\Temp
+WEBSTORM_VM_OPTIONS=C:\Crack\jetbra\vmoptions\webstorm.vmoptions
+APPDATA=C:\Users\tksky\AppData\Roaming
+USERDOMAIN=DESKTOP-1L3DK29
+ACSvcPort=17532
+LOCALAPPDATA=C:\Users\tksky\AppData\Local
+DEBUG=release
+PyCharm=D:\software\PyCharm 2023.1\bin;
+VSCODE_NLS_CONFIG={"userLocale":"zh-cn","osLocale":"zh-cn","resolvedLanguage":"zh-cn","defaultMessagesFile":"C:\\Users\\tksky\\AppData\\Local\\Programs\\Microsoft VS Code\\e7fb5e96c0\\resources\\app\\out\\nls.messages.json","languagePack":{"translationsConfigFile":"C:\\Users\\tksky\\AppData\\Roaming\\Code\\clp\\3bdd7a3007f9713a93666e8941c8922f.zh-cn\\tcf.json","messagesFile":"C:\\Users\\tksky\\AppData\\Roaming\\Code\\clp\\3bdd7a3007f9713a93666e8941c8922f.zh-cn\\e7fb5e96c0730b9deb70b33781f98e2f35975036\\nls.messages.json","corruptMarkerFile":"C:\\Users\\tksky\\AppData\\Roaming\\Code\\clp\\3bdd7a3007f9713a93666e8941c8922f.zh-cn\\corrupted.info"},"locale":"zh-cn","availableLanguages":{"*":"zh-cn"},"_languagePackId":"3bdd7a3007f9713a93666e8941c8922f.zh-cn","_languagePackSupport":true,"_translationsConfigFile":"C:\\Users\\tksky\\AppData\\Roaming\\Code\\clp\\3bdd7a3007f9713a93666e8941c8922f.zh-cn\\tcf.json","_cacheRoot":"C:\\Users\\tksky\\AppData\\Roaming\\Code\\clp\\3bdd7a3007f9713a93666e8941c8922f.zh-cn","_resolvedLanguagePackCoreLocation":"C:\\Users\\tksky\\AppData\\Roaming\\Code\\clp\\3bdd7a3007f9713a93666e8941c8922f.zh-cn\\e7fb5e96c0730b9deb70b33781f98e2f35975036","_corruptedFile":"C:\\Users\\tksky\\AppData\\Roaming\\Code\\clp\\3bdd7a3007f9713a93666e8941c8922f.zh-cn\\corrupted.info"}
+APPCODE_VM_OPTIONS=C:\Crack\jetbra\vmoptions\appcode.vmoptions
+COLORTERM=truecolor
+VSCODE_CODE_CACHE_PATH=C:\Users\tksky\AppData\Roaming\Code\CachedData\e7fb5e96c0730b9deb70b33781f98e2f35975036
+PUBLIC=C:\Users\Public
+WEBIDE_VM_OPTIONS=C:\Crack\jetbra\vmoptions\webide.vmoptions
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\tksky\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\tksky\AppData\Local\Temp\ea304d33bd581b80b56098b4'... OK
+Reading from temporary file 'C:\Users\tksky\AppData\Local\Temp\ea304d33bd581b80b56098b4'... OK
+Deleting temporary file 'C:\Users\tksky\AppData\Local\Temp\ea304d33bd581b80b56098b4'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\tksky
+UserDataDirectoryPath: C:\Users\tksky\.gcm
+GetCurrentDirectory(): D:\BaiduSyncdisk\master_Course_materials\C++Learning\基于STL的演讲比赛流程管理系统
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: False
+Exception:
+System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 GitCredentialManager.Diagnostics.NetworkingDiagnostic.<RunInternalAsync>d__4.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com...
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.53.0.windows.2'
+Locating current repository...Git repository at 'D:/BaiduSyncdisk/master_Course_materials/C++Learning/基于STL的演讲比赛流程管理系统/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/tksky/.gitconfig	user.name=tksky
+file:C:/Users/tksky/.gitconfig	user.email=tkskynum1@gmail.com
+file:C:/Users/tksky/.gitconfig	http.proxy=http://127.0.0.1:7890
+file:C:/Users/tksky/.gitconfig	safe.directory=D:/BaiduSyncdisk/master_Course_materials/C++Learning/基于STL的演讲比赛流程管理系统
+file:C:/Users/tksky/.gitconfig	credential.helper=manager
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/tkskynum1-beep/speech-contest-management-system.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\tksky\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\tksky\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
